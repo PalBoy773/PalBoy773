@@ -1,0 +1,45 @@
+<iframe id="item-direct-container" class="item-direct-container resizable" width="350" height="623" allow="autoplay" allowfullscreen="" frameborder="0" scrolling="no" data-src="https://storage.y8.com/y8-studio/html5/sidvariya/save_the_doge_2/?key=y8&amp;value=default" style="display: block;" src="https://storage.y8.com/y8-studio/html5/sidvariya/save_the_doge_2/?key=y8&amp;value=default"></iframe>
+<html style="--construct-scale: 0.4859375;"><head>
+    <meta charset="UTF-8">
+    <title>Save the Doge</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta name="generator" content="Scirra Construct">
+    <meta name="author" content="alex">
+    <meta name="description" content="Save the doge.">
+    <link rel="manifest" href="appmanifest.json">
+    <link rel="apple-touch-icon" sizes="256x256" href="icons/icon-256.png">
+    <link rel="stylesheet" href="style.css">
+	<script src="https://cdn.y8.com/api/sdk.js" async=""></script>
+<script src="https://img.y8.com/prevent-keys.js"></script><script type="module" src="https://storage.y8.com/y8-studio/html5/sidvariya/save_the_doge_2/scripts/c3runtime.js"></script></head>
+
+<body>
+	<script>
+		window.idAsyncInit = function() { // SDK downloaded
+		  ID.init({
+			appId : '6544e6aabbddbdb2105bfcc5'
+		  });
+
+		  ID.Event.subscribe('id.init', function() { // SDK initialized
+			ID.ads.init('6544e6aabbddbdb2105bfcc5');
+		  });
+		};
+	</script>
+    <script>
+        if (location.protocol.substr(0, 4) === "file") {
+            alert("Web exports won't work until you upload them. (When running on the file: protocol, browsers block many features from working for security reasons.)");
+        }
+    </script>
+    <script src="box2d.wasm.js"></script>
+    <noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+    <script src="scripts/supportcheck.js"></script>
+    <script src="scripts/offlineclient.js" type="module"></script>
+    <script src="scripts/main.js" type="module"></script>
+    <script src="scripts/register-sw.js" type="module"></script>
+
+
+<canvas width="350" height="622" style="width: 350px; height: 622px; margin-left: 0px; margin-top: 0px;"></canvas><div class="c3-screen-reader-text" aria-live="polite"></div><iframe name="easyXDM_id_xd_api_provider" title="easyXDM_id_xd_api_provider" id="easyXDM_id_xd_api_provider" src="https://cdn.y8.com/Xd/xd_handler.html?version=44&amp;xdm_e=https%3A%2F%2Fstorage.y8.com&amp;xdm_c=id_xd_api&amp;xdm_p=1" frameborder="0" style="position: absolute; top: -2000px; left: 0px;"></iframe><div id="id-root" class="id-reset"></div></body></html>
